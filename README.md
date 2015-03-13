@@ -2,6 +2,101 @@
 
 > Conference resources
 
+## [CSSConf EU](http://cssconf.eu/)
+
+* [2014](https://www.youtube.com/playlist?list=PL37ZVnwpeshHAnqFlTxhd0MIXWjLBbM3R)
+* [2013](https://www.youtube.com/playlist?list=PL37ZVnwpeshGi0vwS7HNUvsj8_vcNzQZk)
+
+## CSSConf US
+
+* [2014](https://www.youtube.com/playlist?list=PL37ZVnwpeshH_e3YNmABDup81_1I7rCnC)
+* [2013](https://www.youtube.com/playlist?list=PL37ZVnwpeshGqKQRb4-G3Dn40QH7quwBY)
+
+## [dotCSS](http://www.dotcss.io/)
+
+* [2014](https://www.youtube.com/playlist?list=PLMW8Xq7bXrG5B_oW-EX8AuLDG0BCwouis)
+
+## [dotJS](http://www.dotjs.io/)
+
+* [2014](https://www.youtube.com/playlist?list=PLMW8Xq7bXrG4bTkovexbhgrcD8BVyHmiS)
+* [2013](https://www.youtube.com/playlist?list=PLMW8Xq7bXrG486Mh95hKjiXRdci60zUlL)
+* [2012](https://www.youtube.com/playlist?list=PLMW8Xq7bXrG77SV1VAAiAciRyq3VSC2Gq)
+
+## [EmberConf](http://emberconf.com/)
+
+* [2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU)
+* [2014](https://www.youtube.com/playlist?list=PLE7tQUdRKcyaOyfBnAndJxQ9PNVmKva0d)
+
+## [EmpireNode](http://empirenode.org/)
+
+* [2014](https://www.youtube.com/playlist?list=PL31ehRjJCA6Fh_l4jd-0neUKLUDwycZK8)
+
+## [EmpireJS](http://empirejs.org/)
+
+* 2014 (videos available [here](https://www.youtube.com/user/EmpireJS/videos) but not in a playlist yet)
+
+## [JSConf Buenos Aires](https://www.jsconfar.com/)
+
+* [2014](https://www.youtube.com/watch?v=I4VkZ5H9PE8)
+
+## [JSConf Asia](http://jsconf.asia/)
+
+* [2014](https://www.youtube.com/playlist?list=PL37ZVnwpeshE_Um4wU9fSn6xB5VB_61R-)
+* [2013](https://www.youtube.com/playlist?list=PL37ZVnwpeshHQ1_r4DyrIqonICtMg3ol_)
+
+## [JSConf EU](http://jsconf.eu/)
+
+* [2014](https://www.youtube.com/playlist?list=PL37ZVnwpeshGPw2RfUGNQbPsU_WGpi05J)
+* [2013](https://www.youtube.com/playlist?list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_)
+* [2012](https://www.youtube.com/playlist?list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL)
+* [2011](https://www.youtube.com/playlist?list=PL37ZVnwpeshEVYiRemhMII6ORJmsJuqP7)
+* [2010](https://www.youtube.com/playlist?list=PL37ZVnwpeshHnZ3hH3RYFD_rgSGSCcim5)
+* [2009](https://www.youtube.com/playlist?list=PL37ZVnwpeshGNXb77ObNUbvax-VQ_DWJe)
+
+## [JSConf US](http://jsconf.us/)
+
+* [2014](https://www.youtube.com/playlist?list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN)
+* [2013](https://www.youtube.com/playlist?list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx)
+* [2012](https://www.youtube.com/playlist?list=PL37ZVnwpeshHLGexQN3yT1617FekYdgN0)
+* [2011](https://www.youtube.com/playlist?list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_)
+* [2010](https://www.youtube.com/playlist?list=PL37ZVnwpeshGsKh3UoENa6Z6weLA9V8bW)
+* [2009](https://www.youtube.com/playlist?list=PL37ZVnwpeshG3BtM8BM1M9BXIriD6IEND)
+
+## [JSConf UY](https://jsconf.uy/)
+
+* [2014](https://www.youtube.com/playlist?list=PLleHIBVx1SeRTGjxTsWrJJHN1Ehx5wHUz)
+
+## [NodeConf](http://nodeconf.com/)
+
+* [2012](http://lanyrd.com/2012/nodeconf/coverage/)
+* [2011](https://www.youtube.com/playlist?list=PL37ZVnwpeshHfMdifGs4ed2sXgbCtVD_c)
+
+## [React.js Conf](http://conf.reactjs.com/)
+
+* [2015](https://www.youtube.com/playlist?list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr)
+
+## [Reject.JS](http://rejectjs.org/)
+
+* [2014](https://www.youtube.com/playlist?list=PL37ZVnwpeshF8Sr8JZNFU6boKMmod9YBw)
+* [2013](https://www.youtube.com/playlist?list=PL37ZVnwpeshGLrMTDPV12z7KmjrXsOeHT)
+* 2012
+
+## [RS Conf](http://conf.rollingscopes.com/)
+
+* [2015](https://www.youtube.com/playlist?list=PLe--kalBDwjgrOqRSbJrJd-o7M3-KlOff)
+
+## [TXJS](https://2015.texasjavascript.com/)
+
+* [2013](http://lanyrd.com/2013/txjs/coverage/)
+* 2012
+* [2011](http://lanyrd.com/2011/txjs/coverage/)
+* 2010
+
+## [W3Conf](http://www.w3.org/conf/)
+
+* 2013 (videos available [here](https://www.youtube.com/user/W3Conf/videos) but not in a playlist yet)
+* 2011
+
 ## License
 
 MIT © Alejandro Beltrán
