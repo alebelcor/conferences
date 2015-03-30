@@ -2,6 +2,10 @@
 
 > Conference resources
 
+## [CSSConf AU](http://cssconf.com.au/)
+
+* [2014](https://www.youtube.com/playlist?list=PLZriQCloF6GDEOUPK7tlaWAtJhPW21ZDF)
+
 ## [CSSConf EU](http://cssconf.eu/)
 
 * [2014](https://www.youtube.com/playlist?list=PL37ZVnwpeshHAnqFlTxhd0MIXWjLBbM3R)
