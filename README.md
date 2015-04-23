@@ -2,6 +2,12 @@
 
 > Conference resources
 
+## [CascadiaJS](http://cascadiajs.com/)
+
+* [2014](https://www.youtube.com/playlist?list=PLLiioAbFTbKMoXtKtyj_3eCfzD-eT05gl)
+* [2013](https://www.youtube.com/playlist?list=PLLiioAbFTbKP9CxF9Fu4_NQteU_v9wkA3)
+* [2012](https://www.youtube.com/playlist?list=PLLiioAbFTbKMtmUbLWDzpUzayRLC5s2NZ)
+
 ## [CSSConf AU](http://cssconf.com.au/)
 
 * [2014](https://www.youtube.com/playlist?list=PLZriQCloF6GDEOUPK7tlaWAtJhPW21ZDF)
