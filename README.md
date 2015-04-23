@@ -45,6 +45,13 @@
 
 * 2014 (videos available [here](https://www.youtube.com/user/EmpireJS/videos) but not in a playlist yet)
 
+## [Fluent Conf](http://fluentconf.com/)
+
+* [2015](https://www.youtube.com/playlist?list=PL055Epbe6d5ZqIHE7NA5f6Iq_bZNjuWvS)
+* [2014](https://www.youtube.com/playlist?list=PL055Epbe6d5bab7rZ3i83OtMmD-d9uq2K)
+* [2013](https://www.youtube.com/playlist?list=PL055Epbe6d5avZGXwE5u039VQq_oQFgrc)
+* [2012](https://www.youtube.com/playlist?list=PL75AC4484E6866741)
+
 ## [JSConf Buenos Aires](https://www.jsconfar.com/)
 
 * [2014](https://www.youtube.com/watch?v=I4VkZ5H9PE8)
