@@ -52,6 +52,10 @@
 * [2013](https://www.youtube.com/playlist?list=PL055Epbe6d5avZGXwE5u039VQq_oQFgrc)
 * [2012](https://www.youtube.com/playlist?list=PL75AC4484E6866741)
 
+## [JSConf Budapest](http://jsconfbp.com/)
+
+* [2015](https://www.youtube.com/playlist?list=PLFZ5NyC0xHDaaTy6tY9p0C0jd_rRRl5Zm)
+
 ## [JSConf Buenos Aires](https://www.jsconfar.com/)
 
 * [2014](https://www.youtube.com/watch?v=I4VkZ5H9PE8)
