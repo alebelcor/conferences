@@ -71,7 +71,6 @@
 
 ## [JSConf EU](http://jsconf.eu/)
 
-* [2015](https://www.youtube.com/playlist?list=PL37ZVnwpeshEkVjFZlLm1krvx0mPYPOoq)
 * [2014](https://www.youtube.com/playlist?list=PL37ZVnwpeshGPw2RfUGNQbPsU_WGpi05J)
 * [2013](https://www.youtube.com/playlist?list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_)
 * [2012](https://www.youtube.com/playlist?list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL)
@@ -81,6 +80,7 @@
 
 ## [JSConf US](http://jsconf.us/)
 
+* [2015](https://www.youtube.com/playlist?list=PL37ZVnwpeshEkVjFZlLm1krvx0mPYPOoq)
 * [2014](https://www.youtube.com/playlist?list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN)
 * [2013](https://www.youtube.com/playlist?list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx)
 * [2012](https://www.youtube.com/playlist?list=PL37ZVnwpeshHLGexQN3yT1617FekYdgN0)
