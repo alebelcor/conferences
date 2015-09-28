@@ -92,7 +92,12 @@
 
 * [2014](https://www.youtube.com/playlist?list=PLleHIBVx1SeRTGjxTsWrJJHN1Ehx5wHUz)
 
-## [NodeConf](http://nodeconf.com/)
+## [NodeConf EU](http://nodeconfeu.com/)
+
+* [2015](https://www.youtube.com/playlist?list=PLhiahOQZ6uaVKRVGiVTsH7vNP1aSHY7vK)
+* [2014](https://www.youtube.com/playlist?list=PLPhU2Tz1TddCis5MZlx1HQeK5GYJoIbu8)
+
+## [NodeConf US](http://nodeconf.com/)
 
 * [2012](http://lanyrd.com/2012/nodeconf/coverage/)
 * [2011](https://www.youtube.com/playlist?list=PL37ZVnwpeshHfMdifGs4ed2sXgbCtVD_c)
