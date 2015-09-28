@@ -46,6 +46,7 @@
 
 ## [EmpireJS](http://empirejs.org/)
 
+* [2015](https://www.youtube.com/playlist?list=PLVj1OpNaoqO31S0bFq7h73JsJR6ECoRED)
 * 2014 (videos available [here](https://www.youtube.com/user/EmpireJS/videos) but not in a playlist yet)
 
 ## [Fluent Conf](http://fluentconf.com/)
