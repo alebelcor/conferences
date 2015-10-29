@@ -71,6 +71,7 @@
 
 ## [JSConf EU](http://jsconf.eu/)
 
+* [2015](https://www.youtube.com/playlist?list=PL37ZVnwpeshH37NxpV6XbgdDpY-w48hMd)
 * [2014](https://www.youtube.com/playlist?list=PL37ZVnwpeshGPw2RfUGNQbPsU_WGpi05J)
 * [2013](https://www.youtube.com/playlist?list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_)
 * [2012](https://www.youtube.com/playlist?list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL)
