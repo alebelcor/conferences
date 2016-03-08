@@ -96,6 +96,7 @@
 
 ## [JSConf UY](https://jsconf.uy/)
 
+* [2015](https://www.youtube.com/playlist?list=PLleHIBVx1SeQxhubNMUoFsfL1Z8XbcuGB)
 * [2014](https://www.youtube.com/playlist?list=PLleHIBVx1SeRTGjxTsWrJJHN1Ehx5wHUz)
 
 ## [NodeConf EU](http://nodeconfeu.com/)
