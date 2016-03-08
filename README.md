@@ -106,6 +106,7 @@
 
 ## [React.js Conf](http://conf.reactjs.com/)
 
+* [2016](https://www.youtube.com/playlist?list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY)
 * [2015](https://www.youtube.com/playlist?list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr)
 
 ## [Reject.JS](http://rejectjs.org/)
