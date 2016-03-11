@@ -60,6 +60,7 @@
 
 ## [Fluent Conf](http://fluentconf.com/)
 
+* [2016](https://www.youtube.com/playlist?list=PL055Epbe6d5bQubu5EWf_kUNA3ef_qbmL)
 * [2015](https://www.youtube.com/playlist?list=PL055Epbe6d5ZqIHE7NA5f6Iq_bZNjuWvS)
 * [2014](https://www.youtube.com/playlist?list=PL055Epbe6d5bab7rZ3i83OtMmD-d9uq2K)
 * [2013](https://www.youtube.com/playlist?list=PL055Epbe6d5avZGXwE5u039VQq_oQFgrc)
