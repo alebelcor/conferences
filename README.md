@@ -107,8 +107,8 @@
 
 ## [NodeConf EU](http://nodeconfeu.com/)
 
-* [2015](https://www.youtube.com/playlist?list=PLhiahOQZ6uaVKRVGiVTsH7vNP1aSHY7vK)
-* [2014](https://www.youtube.com/playlist?list=PLPhU2Tz1TddCis5MZlx1HQeK5GYJoIbu8)
+* [2015](https://www.youtube.com/playlist?list=PLhiahOQZ6uaVzf3156bxy1nYA7HjuNBom)
+* [2014](https://www.youtube.com/playlist?list=PLhiahOQZ6uaVKRVGiVTsH7vNP1aSHY7vK)
 
 ## [NodeConf US](http://nodeconf.com/)
 
