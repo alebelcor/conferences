@@ -101,6 +101,7 @@
 
 ## [JSConf UY](https://jsconf.uy/)
 
+* [2016](https://www.youtube.com/playlist?list=PLleHIBVx1SeSz1Ti0jpXl4Zt7ZtWOk49x)
 * [2015](https://www.youtube.com/playlist?list=PLleHIBVx1SeQxhubNMUoFsfL1Z8XbcuGB)
 * [2014](https://www.youtube.com/playlist?list=PLleHIBVx1SeRTGjxTsWrJJHN1Ehx5wHUz)
 
