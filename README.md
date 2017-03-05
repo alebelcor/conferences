@@ -82,6 +82,7 @@
 
 ## [JSConf Asia](http://jsconf.asia/)
 
+* [2016](https://www.youtube.com/playlist?list=PL37ZVnwpeshFn7VjMHjenn8niUTYNe8O7)
 * [2015](https://www.youtube.com/playlist?list=PL37ZVnwpeshGpDJn60AwbJ6xegSHe_cDh)
 * [2014](https://www.youtube.com/playlist?list=PL37ZVnwpeshE_Um4wU9fSn6xB5VB_61R-)
 * [2013](https://www.youtube.com/playlist?list=PL37ZVnwpeshHQ1_r4DyrIqonICtMg3ol_)
