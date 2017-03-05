@@ -2,7 +2,7 @@
 
 > Conference resources
 
-## [CascadiaJS](http://cascadiajs.com/)
+## [CascadiaFest](http://cascadiafest.org)
 
 * [2016](https://www.youtube.com/playlist?list=PLLiioAbFTbKNKyP1m4dmW_xu9byJOPMHe)
 * [2015](https://www.youtube.com/playlist?list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7)
