@@ -57,6 +57,7 @@
 
 ## [EmpireNode](http://empirenode.org/)
 
+* [2016](https://www.youtube.com/playlist?list=PL31ehRjJCA6Ez9Y_dZWymd_LDV7Ydc_0D)
 * [2015](https://www.youtube.com/playlist?list=PL31ehRjJCA6EB_ZI3YscW_UMP34XrguOt)
 * [2014](https://www.youtube.com/playlist?list=PL31ehRjJCA6Fh_l4jd-0neUKLUDwycZK8)
 
