@@ -43,6 +43,7 @@
 
 ## [dotJS](http://www.dotjs.io/)
 
+* [2016](https://www.youtube.com/playlist?list=PLMW8Xq7bXrG7rZnRaYCel_RJY5yAXLQ2H)
 * [2015](https://www.youtube.com/playlist?list=PLMW8Xq7bXrG70G62mxQR0OC4GkUcNLRnC)
 * [2014](https://www.youtube.com/playlist?list=PLMW8Xq7bXrG4bTkovexbhgrcD8BVyHmiS)
 * [2013](https://www.youtube.com/playlist?list=PLMW8Xq7bXrG486Mh95hKjiXRdci60zUlL)
