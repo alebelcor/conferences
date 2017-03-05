@@ -115,6 +115,7 @@
 
 ## [NodeConf EU](http://nodeconfeu.com/)
 
+* [2016](https://www.youtube.com/playlist?list=PL0CdgOSSGlBY4vNGIZndSoVFWHrheWlG8)
 * [2015](https://www.youtube.com/playlist?list=PLhiahOQZ6uaVzf3156bxy1nYA7HjuNBom)
 * [2014](https://www.youtube.com/playlist?list=PLhiahOQZ6uaVKRVGiVTsH7vNP1aSHY7vK)
 
@@ -137,6 +138,8 @@
 
 ## [RS Conf](http://conf.rollingscopes.com/)
 
+* [2017](https://www.youtube.com/playlist?list=PLe--kalBDwjiiVq-AxoChmYbArhioKhQw)
+* [2016](https://www.youtube.com/playlist?list=PLe--kalBDwjjRSn1FBlEVPxZA1GyXBnSW)
 * [2015](https://www.youtube.com/playlist?list=PLe--kalBDwjgrOqRSbJrJd-o7M3-KlOff)
 
 ## [TXJS](https://2015.texasjavascript.com/)
