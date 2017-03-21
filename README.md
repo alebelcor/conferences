@@ -124,8 +124,9 @@
 * [2012](http://lanyrd.com/2012/nodeconf/coverage/)
 * [2011](https://www.youtube.com/playlist?list=PL37ZVnwpeshHfMdifGs4ed2sXgbCtVD_c)
 
-## [React.js Conf](http://conf.reactjs.com/)
+## [React Conf](http://conf.reactjs.org/)
 
+* [2017](https://www.youtube.com/playlist?list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0)
 * [2016](https://www.youtube.com/playlist?list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY)
 * [2015](https://www.youtube.com/playlist?list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr)
 
